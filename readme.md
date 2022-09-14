@@ -1,2 +1,2 @@
 
-![Desktop](ilkrepo.png)
+![Screenshots](ilkrepo.png)
